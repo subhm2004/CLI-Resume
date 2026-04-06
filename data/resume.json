@@ -1,0 +1,37 @@
+{
+  "About Me": [
+    "Hello!! I am Shubham Malik, a final year Computer Engineering student and a full-stack developer. I am a LeetCode Knight (Top 2% globally) with a passion for building high-performance systems and scalable web applications. Currently, I am focusing on low-latency systems and full-stack engineering."
+  ],
+  "Professional Experience": [
+    "Sept 2024 - Nov 2024: Full-stack Web Developer Intern at StarkSeek India",
+    "Nov 2022 - Present: B.Tech in Computer Engineering at J.C. Bose UST"
+  ],
+  "Tech Skills": [
+    "Languages: C++, TypeScript, JavaScript, Python, SQL",
+    "Frontend: Next.js, React.js, Tailwind CSS, ShadCN UI",
+    "Backend: Node.js, Express.js, Prisma, Supabase, Flask",
+    "Infrastructure & Tools: Docker, Git/GitHub, Socket.io, WebRTC"
+  ],
+  "Projects": [
+    "CoreBalance = High-performance C++ CPU simulator with real-time Next.js visualization",
+    "NexusRTC = P2P video conferencing platform using WebRTC, WebSockets, and MediaRecorder API",
+    "WiseWallet = AI-integrated finance tracker with real-time budget automation"
+  ],
+  "Achievements": [
+    "LeetCode Max Rating: 2012 (Knight Badge)",
+    "Global Rank 180 (Feb 2025) among 30,000+ participants",
+    "Developed high-impact dashboards resulting in a 40% increase in lead conversion"
+  ],
+  "Personal Interest": [
+    "Competitive Programming",
+    "Badminton",
+    "System Design and Low Latency Engineering"
+  ],
+  "Contact Me": {
+    "GitHub": "https://github.com/subhm2004",
+    "LinkedIn": "https://www.linkedin.com/in/shubham04012003/",
+    "LeetCode": "https://leetcode.com/subhm2003",
+    "Portfolio": "https://shubhammalik.vercel.app/",
+    "Email": "subhu04012003@gmail.com"
+  }
+}
