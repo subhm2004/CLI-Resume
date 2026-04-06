@@ -1,5 +1,5 @@
 {
-  "name": "cli-resume-shubham-malik",
+  "name": "shubham0401",
   "version": "1.0.0",
   "description": "CLI resume application",
   "main": "index.js",
@@ -35,6 +35,6 @@
     "eslint-plugin-node": "^9.0.1"
   },
   "bin": {
-    "Shubham-resume": "./index.js"
+    "shubham0401": "./index.js"
   }
 }
